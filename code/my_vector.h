@@ -1,7 +1,3 @@
-//
-// Created by demon1999 on 29.05.18.
-//
-
 #include <limits>
 #include <cstddef>
 #include <iosfwd>

@@ -4,9 +4,7 @@
  * avoid macro in code
  * avoid `using namespace` in global scope, used using std::string instead
  * use everywhere std::string, std::vector etc it's not a pain
- * write your code in CLion
- * use stl
- * pay attention on CLion static analyzer (warnings)
+ * use stl                                          
  */
 
 #ifndef BIG_INTEGER_H
